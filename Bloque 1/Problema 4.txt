@@ -1,0 +1,6 @@
+/*4. Ejecute el programa del ejercio
+ anterior con entradas erroneas y
+ observe los resultados. Por ejemplo,
+ introduzca un dato de tipo caracter
+ cuando se espera un dato de tipo
+ entero.*/ 
